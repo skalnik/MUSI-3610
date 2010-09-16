@@ -41,7 +41,7 @@ Others
 * Piano: fullname Pianoforte
 * Guitar: Arabic/Persian roots, flat top, curved back
 * Organ: secular outdoor instrument w/multiple operators, 10th century accepted into the church
-Ensemvles
+Ensembles
 * Chorus/Chorale, Chamber Choir
 * Orchestras: String, Chamber (30-50), Pit, Opera, Balllet, Symphony(80-)
 * Concert Bands, Rcock Bands, Jazz Bands

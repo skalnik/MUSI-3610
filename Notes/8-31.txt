@@ -15,7 +15,7 @@ Apollo
 
 Equal Temperament
 * In Pythagorean or Just tuning systems, intervals are derived via ratio 4:3, 5:4, 6:5, etc.
-* In Equal Temperament, each half step interval is esuidistant, derived by geometric esquence (logorhythm)
+* In Equal Temperament, each half step interval is equidistant, derived by geometric esquence (logorhythm)
 * For this course, implications; all 12 tones are equidistant; facilitates modulation, large ensembles.
 More terms related to melody
 * Range - the parameter of a melody (lowest/highest)
